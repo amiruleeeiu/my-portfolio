@@ -1,0 +1,23 @@
+.profile{
+    text-align: center;
+
+}
+.profile img{
+    width: 10%;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.communication-media a{
+    margin:10px;
+}
+.mediaCard{
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    margin-left: 140px;
+}
+.mediaCard div{
+    margin: 10px;
+    padding: 0px;
+}

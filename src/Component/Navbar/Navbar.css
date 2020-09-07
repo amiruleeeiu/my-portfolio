@@ -1,0 +1,10 @@
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:hover{
+    background:rgb(132, 160, 238);
+    color: black;
+}
